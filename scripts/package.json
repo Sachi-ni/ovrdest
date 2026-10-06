@@ -1,0 +1,8 @@
+{
+  "name": "ovrzd-import",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@sanity/client": "^6.0.0"
+  }
+}
